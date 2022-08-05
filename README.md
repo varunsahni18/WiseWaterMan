@@ -47,7 +47,7 @@
 3. If the correct option is clicked, you will get a congratulations screen as shown below:
 
 ```
-a.
+a. ![correct img](https://github.com/varunsahni18/WiseWaterMan/blob/main/correct.jpg?raw=true)
 b. Now click on the right arrow image on the screen to continue playing!
 ```
 
@@ -56,7 +56,7 @@ b. Now click on the right arrow image on the screen to continue playing!
        is wrong. Example:
 
 ```
-b.
+b. ![wrong img](https://github.com/varunsahni18/WiseWaterMan/blob/main/wrong.jpg?raw=true)
 c. Similar to the correct answer screen, click on the right arrow image to continue.
 playing, since the wrong answer was selected, the water lever of the jetpack will not
 be refilled.
