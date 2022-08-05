@@ -10,7 +10,7 @@
 # Playing the Game:
 
 ## The Character:
-
+![char](https://github.com/varunsahni18/WiseWaterMan/blob/main/images/b.png?raw=true)
 1. This is the main character of the game.
 2. Control the character’s jetpack using the spacebar to water the dessert ground below him
     and to also control his height.
@@ -21,7 +21,7 @@
     boxes.
 
 ## The Obstacles:
-
+![obstacles](https://github.com/varunsahni18/WiseWaterMan/blob/main/images/c.png?raw=true)
 1. This is an obstacle.
 2. Touching this obstacle will end the game, the aim of the player is to control the character
     away from this obstacle.
@@ -30,7 +30,7 @@
 
 
 ## The Question boxes:
-
+![Questions](https://github.com/varunsahni18/WiseWaterMan/blob/main/images/d.png?raw=true)
 1. This is the question box.
 2. Question boxes appear randomly throughout the game and catching them is a vital part of
     the game that allows the player to continue playing.
@@ -39,15 +39,16 @@
     keep playing the game.
 
 ## The Question Prompt:
-
+![Question Prompt](https://github.com/varunsahni18/WiseWaterMan/blob/main/images/f.png?raw=true)
 1. Question prompts have a variety of questions in them, all based on water conservation.
 2. To keep playing the game (by rechanging the water level) the player must answer this
     question correctly by selecting one of the two images on the right side of the screen.
        a. In this example the student must click on the 1L of water image.
 3. If the correct option is clicked, you will get a congratulations screen as shown below:
 
+
+a. ![correct](https://github.com/varunsahni18/WiseWaterMan/blob/main/images/g.png?raw=true)
 ```
-a. ![correct img](https://github.com/varunsahni18/WiseWaterMan/blob/main/correct.jpg?raw=true)
 b. Now click on the right arrow image on the screen to continue playing!
 ```
 
@@ -56,14 +57,14 @@ b. Now click on the right arrow image on the screen to continue playing!
        is wrong. Example:
 
 
-b. ![wrong img](https://github.com/varunsahni18/WiseWaterMan/blob/main/images/a.png?raw=true)
+b. ![wrong img](https://github.com/varunsahni18/WiseWaterMan/blob/main/images/h.png?raw=true)
 ```
 c. Similar to the correct answer screen, click on the right arrow image to continue.
 playing, since the wrong answer was selected, the water lever of the jetpack will not
 be refilled.
 ```
 ## Water Level Meter:
-
+![Water Level Meter](https://github.com/varunsahni18/WiseWaterMan/blob/main/images/i.png?raw=true)
 1. The water level meter is used to denote the amount of water left in the jetpack.
 2. If the water level reaches zero, the game ends.
     a. Pick up more question boxes and answer them correctly to prevent this from
