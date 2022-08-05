@@ -2,7 +2,7 @@
 
 
 # Installing The game:
-
+![icon](https://github.com/varunsahni18/WiseWaterMan/blob/main/images/a.png?raw=true)
 1. Go to the website: https://varunsahni18.github.io/WiseWaterMan/
 2. Wait for a few seconds (might take a few minutes on slower systems), Then you will see the
     introduction screen with the learn, play, info and Team Buttons.
