@@ -56,7 +56,7 @@ b. Now click on the right arrow image on the screen to continue playing!
        is wrong. Example:
 
 ```
-b. ![wrong img](https://github.com/varunsahni18/WiseWaterMan/blob/main/wrong.jpg?raw=true)
+b. ![wrong img](https://github.com/varunsahni18/WiseWaterMan/blob/main/abc.png?raw=true)
 c. Similar to the correct answer screen, click on the right arrow image to continue.
 playing, since the wrong answer was selected, the water lever of the jetpack will not
 be refilled.
